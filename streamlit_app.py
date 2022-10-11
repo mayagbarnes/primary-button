@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Primary Button Demo")
+st.title("🔲 Primary Button Demo")
 
 st.header("`st.button`:")
 st.button("Primary Button", type='primary')
